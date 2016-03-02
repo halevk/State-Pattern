@@ -10,6 +10,14 @@ namespace StatePattern
     {
         static void Main(string[] args)
         {
+            var tj=new TrafficSystem();
+
+            tj.Start();
+            tj.Start();
+            tj.Start();
+            tj.Start();
+
+            Console.ReadLine();
         }
     }
 }
