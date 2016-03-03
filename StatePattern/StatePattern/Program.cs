@@ -15,7 +15,6 @@ namespace StatePattern
             tj.Start();
             tj.Start();
             tj.Start();
-            tj.Start();
 
             Console.ReadLine();
         }
